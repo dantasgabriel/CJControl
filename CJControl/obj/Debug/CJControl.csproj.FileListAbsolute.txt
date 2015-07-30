@@ -1,0 +1,10 @@
+C:\Users\Dantas\OneDrive\Projetos\CJControl\CJControl\bin\Debug\CJControl.exe.config
+C:\Users\Dantas\OneDrive\Projetos\CJControl\CJControl\bin\Debug\CJControl.exe
+C:\Users\Dantas\OneDrive\Projetos\CJControl\CJControl\bin\Debug\CJControl.pdb
+C:\Users\Dantas\OneDrive\Projetos\CJControl\CJControl\obj\Debug\CJControl.frmPrincipal.resources
+C:\Users\Dantas\OneDrive\Projetos\CJControl\CJControl\obj\Debug\CJControl.Properties.Resources.resources
+C:\Users\Dantas\OneDrive\Projetos\CJControl\CJControl\obj\Debug\CJControl.csproj.GenerateResource.Cache
+C:\Users\Dantas\OneDrive\Projetos\CJControl\CJControl\obj\Debug\CJControl.exe
+C:\Users\Dantas\OneDrive\Projetos\CJControl\CJControl\obj\Debug\CJControl.pdb
+C:\Users\Dantas\OneDrive\Projetos\CJControl\CJControl\obj\Debug\CJControl.csprojResolveAssemblyReference.cache
+C:\Users\Dantas\OneDrive\Projetos\CJControl\CJControl\obj\Debug\CJControl.frmCadastrarComponente.resources
